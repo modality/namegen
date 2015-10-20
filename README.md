@@ -26,7 +26,7 @@ igapamongot uatar umprebe qurak araso
 eiskrorynkoc binee usotew worpor cerarar veoure
 ```
 
-### Alien Lifeforms = Animals + Flowers
+### Alien Lifeforms (Animals + Flowers)
 
 ```
 vinadeanila allal keatelfo mochery areonele
@@ -39,7 +39,7 @@ hotlluamun nakero qupos kearoppot besaheavam
 kussterane pack gosox pernaposyp ramratar gatil
 ```
 
-### Exoplanets = Metals + Stones + 2xFlowers
+### Exoplanets (Metals + Stones + 2xFlowers)
 
 ```
 vert gitliute verarm kitedite oluesad rose
