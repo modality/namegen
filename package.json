@@ -1,0 +1,16 @@
+{
+  "name": "namegen",
+  "version": "1.0.0",
+  "description": "A name generator based on a method described in \"Chris Crawford on Game Design\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Michael Hansen",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "corpora-project": "^0.1.2",
+    "underscore": "^1.8.3"
+  }
+}
